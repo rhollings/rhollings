@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a developer living and learning in France (I'm American). I am seeking work as a Software Developer where I can have the opportunity to contribute to an innovative and dynamic company while continuing to learn. 
+
+## Interests / Hobbies
+- Anime & Comics 🦹🏼‍♀️
+- Manga & Manhwa 🥷🏾
+- Video Games 🎮
+- Being Active 🏋🏽
+- Believer of the Multiverse 🤫
 <!--
 Gonna put some intro stuff here?
 -->
