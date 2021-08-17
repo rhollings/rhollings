@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--
+Gonna put some intro stuff here?
+-->
+
 ## 🔥 Streak stats
 
 <p align="center">
