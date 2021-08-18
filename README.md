@@ -12,7 +12,7 @@ I am a developer living and learning in France (I'm American). I am seeking work
 </p>
 
 
-## Interests / Hobbies
+##  📚 Interests / Hobbies
 - Anime & Comics 🦹🏼‍♀️
 - Manga & Manhwa 🥷🏾
 - Video Games 🎮
