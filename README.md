@@ -6,7 +6,7 @@ I am a developer living and learning in France (I'm American). I am seeking work
 
 <p align="center">
   <a href="https://github.com/rhollings/rhollings">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rhollings' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rhollings&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rhollings' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rhollings&theme=omni&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats.</a> Credit to <a href="https://github.com/DenverCoder1">DenverCoder1</a></p>
 </p>
