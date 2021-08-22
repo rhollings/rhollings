@@ -11,6 +11,13 @@ I am a developer living and learning in France (I'm American). I am seeking work
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats.</a> Credit to <a href="https://github.com/DenverCoder1">DenverCoder1</a></p>
 </p>
 
+## Tech
+I like playing with
+- Python
+- JavaScript
+- GraphQL
+- Full Stack Websites
+
 
 ##  📚 Interests / Hobbies
 - Anime & Comics 🦹🏼‍♀️
