@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer living and learning in France (I'm American). I am seeking an Internship as a Software Developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Although I am currently not enrolled in univeristy, I have a passion for learning and challenging myself.
+I'm a developer living and learning in France (I'm American), seeking an internship as a Software Developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Although I am currently not enrolled in univeristy, I do have a passion for learning and challenging myself.
 
 ## 🔥 Streak stats
 
