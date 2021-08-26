@@ -27,6 +27,10 @@ I like playing with
 - Believer of the Multiverse 🤫
 <!--
 Gonna put some intro stuff here?
+
+## What I want to Learn
+- AI & ML
+- 
 -->
 <!--
 **rhollings/rhollings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
