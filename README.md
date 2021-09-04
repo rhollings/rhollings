@@ -1,6 +1,6 @@
 ### Hi I'm Rod 👋
 
-I'm a developer living and learning in France (I'm American), seeking an internship as a Software Developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Although I am currently not enrolled in univeristy, I do have a passion for learning and challenging myself.
+I'm a developer living and learning in France (I'm American), seeking internships as a Software Developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Although I am currently not enrolled in univeristy, I do have a passion for learning and challenging myself. For that I've challenged me to learn something everyday.
 
 ## 🔥 Streak stats
 
