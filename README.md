@@ -15,7 +15,7 @@ I'm a developer, seeking internships as a software developer where I can have th
 I like playing with
 - Python 🐍
 - JavaScript
-- GraphQL 📊
+- AI & ML 🤖
 - Full Stack Websites 
 
 
