@@ -11,12 +11,12 @@ I'm a developer, seeking work as a software developer where I can have the oppor
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats.</a> Credit to <a href="https://github.com/DenverCoder1">DenverCoder1</a></p>
 </p>
 
-## 👨🏾‍💻 Tech
+## 👨🏾‍💻 Tech +
 I like playing with
-- Python 🐍
-- JavaScript
+- JavaScript & Python 🐍
+- Fullstack Development 
 - AI & ML 🤖
-- Full Stack Websites 
+- React & React Native
 
 
 ##  📚 Interests / Hobbies
