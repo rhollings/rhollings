@@ -1,6 +1,6 @@
 ### Hi I'm Rod 👋
 
-I'm a developer, seeking work as a software developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Although I am currently not enrolled in univeristy, I do have a passion for learning and challenging myself. For that, I've challenged me to learn something everyday. I am open to accept challenges as well 😁
+I'm a developer, seeking work as a software developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Passionate about learning and challenging myself. Feel free to <a href="https://rhollings.github.io/personal_portfolio/#contact">contact</a> me 😁
 
 ## 🔥 Streak stats
 
@@ -25,6 +25,7 @@ I like playing with
 - Video Games 🎮
 - Being Active 🏋🏽
 - Believer of the Multiverse 🤫
+
 <!--
 Gonna put some intro stuff here?
 
