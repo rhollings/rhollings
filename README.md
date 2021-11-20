@@ -1,6 +1,6 @@
 ### Hi I'm Rod 👋
 
-I'm a developer, seeking work as a software developer where I can have the opportunity to contribute to an innovative company while continuing to learn. Passionate about learning and challenging myself. Feel free to <a href="https://rhollings.github.io/personal_portfolio/#contact">contact</a> me 😁
+I'm a developer, seeking work as an entry/junior level software engineer where I can have the opportunity to contribute to a dynamic and result-oriented company . Passionate about learning and challenging myself. Feel free to <a href="https://rhollings.github.io/personal_portfolio/#projects">check out my work</a> 😁
 
 ## 🔥 Streak stats
 
@@ -16,7 +16,6 @@ I like playing with
 - JavaScript & Python 🐍
 - Fullstack Development 
 - AI & ML 🤖
-- React & React Native
 
 
 ##  📚 Interests / Hobbies
@@ -24,7 +23,7 @@ I like playing with
 - Manga & Manhwa 🥷🏾
 - Video Games 🎮
 - Being Active 🏋🏽
-- Believer of the Multiverse 🤫
+- Believer of the Multiverse 🌌
 
 <!--
 Gonna put some intro stuff here?
