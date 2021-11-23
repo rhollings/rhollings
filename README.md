@@ -11,14 +11,15 @@ I'm a developer, seeking work as an entry/junior level software engineer where I
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats.</a> Credit to <a href="https://github.com/DenverCoder1">DenverCoder1</a></p>
 </p>
 
-## 👨🏾‍💻 Tech +
-I like playing with
+## 👨🏾‍💻 Tech 
+
 - JavaScript & Python 🐍
 - Fullstack Development 
 - AI & ML 🤖
 
 
 ##  📚 Interests / Hobbies
+
 - Anime & Comics 🦹🏼‍♀️
 - Manga & Manhwa 🥷🏾
 - Video Games 🎮
@@ -28,8 +29,8 @@ I like playing with
 <!--
 Gonna put some intro stuff here?
 
-## What I want to Learn
-- AI & ML
+## What I'm learning
+- 
 - 
 -->
 <!--
