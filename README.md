@@ -1,6 +1,6 @@
 ### Hi I'm Rod 👋
 
-I'm a developer, seeking work as an entry/junior level software engineer where I can have the opportunity to contribute to a dynamic and result-oriented company . Passionate about learning and challenging myself. Feel free to <a href="https://rhollings.github.io/personal_portfolio/#projects">check out my work</a> 😁
+I'm a developer. Passionate about learning and creating while challenging myself. Feel free to <a href="https://rhollings.github.io/personal_portfolio/#projects">check out my work</a> 😁
 
 ## 🔥 Streak stats
 
