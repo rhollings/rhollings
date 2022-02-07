@@ -17,6 +17,12 @@ I'm a developer. Passionate about learning and creating while challenging myself
 - Fullstack Development 
 - AI & ML 🤖
 
+## Currently Working On...
+
+- React Clones
+- Django Fundamentals 
+- API Fundamentals 
+
 
 ##  📚 Interests / Hobbies
 
