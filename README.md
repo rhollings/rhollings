@@ -22,6 +22,7 @@ I'm a developer. Passionate about learning and creating while challenging myself
 - React Clones
 - Django Fundamentals 
 - API Fundamentals 
+- Chatbots
 
 
 ##  📚 Interests / Hobbies
