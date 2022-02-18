@@ -19,9 +19,7 @@ I'm a developer. Passionate about learning and creating while challenging myself
 
 ## 🧗🏽‍♂️ Currently Working On...
 
-- React Clones
-- Django Fundamentals 
-- API Fundamentals 
+- Django/React Fundamentals 
 - A.I. Assistant
 
 
