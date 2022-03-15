@@ -11,17 +11,16 @@ I'm a developer. Passionate about learning and creating while challenging myself
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats.</a> Credit to <a href="https://github.com/DenverCoder1">DenverCoder1</a></p>
 </p>
 
-## 👨🏾‍💻 Tech 
+## 👨🏾‍💻 Preferred Tech 
 
 - JavaScript & Python 🐍
-- Fullstack Development 
+- React/Django 
 - AI & ML 🤖
 
 ## 🧗🏽‍♂️ Currently Working On...
 
 - Machine Learning
 - A.I. Assistant
-
 
 ##  📚 Interests / Hobbies
 
