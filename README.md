@@ -2,7 +2,7 @@
 
 I'm a developer. Passionate about learning and creating while challenging myself. Feel free to check out my online <a href="https://rhollings.github.io/personal_portfolio/#projects">Portfolio</a> 😁
 
-## 🔥 Streak stats
+## 🔥 Streak Stats
 
 <p align="center">
   <a href="https://github.com/rhollings/rhollings">
@@ -11,16 +11,24 @@ I'm a developer. Passionate about learning and creating while challenging myself
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats.</a> Credit to <a href="https://github.com/DenverCoder1">DenverCoder1</a></p>
 </p>
 
-## 👨🏾‍💻 Preferred Tech 
+ ## 🤖 Languages
 
-- JavaScript & Python 🐍
+  1. Python 🐍
+  2. JavaScript
+  
+  Learning Go & Swift 
+
+## 👨🏾‍💻  Tech 
+
 - React/Django 
+- Docker
 - AI & ML 🤖
 
 ## 🧗🏽‍♂️ Currently Working On...
 
 - Machine Learning
 - A.I. Assistant
+- AWS Developer Certifaction 
 
 ##  📚 Interests / Hobbies
 
@@ -29,6 +37,7 @@ I'm a developer. Passionate about learning and creating while challenging myself
 - Video Games 🎮
 - Being Active 🏋🏽
 - Believer of the Multiverse 🌌
+- Ask me anything about Nightwing 😁
 
 <!--
 Gonna put some intro stuff here?
