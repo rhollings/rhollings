@@ -1,6 +1,6 @@
 ### Hi I'm Rod 👋
 
-I'm a developer. Passionate about learning and creating while challenging myself. Feel free to check out my online <a href="https://rhollings.github.io/personal_portfolio/#projects">Portfolio</a> 😁
+I'm a developer. I am always learning and creating while challenging myself. Feel free to check out my online <a href="https://rhollings.github.io/personal_portfolio/#projects">Portfolio</a> 😁
 
 ## 🔥 Streak Stats
 
