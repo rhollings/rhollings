@@ -16,7 +16,7 @@ I'm a developer. I am always learning and creating while challenging myself. Fee
   1. Python 🐍
   2. JavaScript
   
-  Learning Go & Swift 
+  Looking to learn more 😁 
 
 ## 👨🏾‍💻  Tech 
 
