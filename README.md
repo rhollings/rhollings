@@ -28,7 +28,7 @@ I'm a developer. I am always learning and creating while challenging myself. Fee
 
 - Machine Learning
 - A.I. Assistant
-- AWS Developer Certifaction 
+- AWS Developer Certification 
 
 ##  📚 Interests / Hobbies
 
