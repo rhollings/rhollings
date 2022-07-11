@@ -18,17 +18,17 @@ I'm a developer. I am always learning and creating while challenging myself. Fee
   
   Looking to learn more 😁 
 
-## 👨🏾‍💻  Tech 
+## 👨🏾‍💻  Tech & Skills
 
 - React/Django 
 - Docker
 - AI & ML 🤖
+- AWS Developer
 
 ## 🧗🏽‍♂️ Currently Working On...
 
 - Machine Learning
 - A.I. Assistant
-- AWS Developer Certification 
 
 ##  📚 Interests / Hobbies
 
