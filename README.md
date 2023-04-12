@@ -28,7 +28,7 @@ I'm a developer. I am always learning and creating while challenging myself. Fee
 ## 🧗🏽‍♂️ Currently Working On...
 
 - Machine Learning
-- A.I. Assistant
+- Data Analytics 
 - TensorFlow 
 
 ##  📚 Interests / Hobbies
